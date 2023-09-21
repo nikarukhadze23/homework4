@@ -1,0 +1,36 @@
+
+h1{
+    color: pink;
+    background-color: yellow;
+
+}
+
+table,
+ td,
+  th {
+    border: solid black;
+    width: 10px;
+}
+.Dotted{
+    border-style: dotted;
+}
+.Sent{
+    border-style: dotted;
+}
+.seen{
+    border-style: dotted;
+}
+    .Nike{
+        border-style: dotted;
+    }
+    .Addidas{
+        border-style: dotted;
+    }
+.Puma{
+    border-style: dotted;
+}
+
+
+
+
+    
